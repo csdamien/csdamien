@@ -1,5 +1,5 @@
 - 🙋‍♂️ Hi, my name is Damien
 - 💻 Not a devvelopper, but programming does interest me.
-- 📫 csdamien.icloud.com
+- 📫 Mail: csdamien.icloud.com
 - 😄 Pronouns: he/him
 - 🌱 Using Fedora Linux on my main PC, and as a true Linux user I must let everyone know about it!
